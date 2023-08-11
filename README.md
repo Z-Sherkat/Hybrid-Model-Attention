@@ -4,7 +4,7 @@ A Self-Attention-Based LSTM, Bi-LSTM, CNN-LSTM and CNN-Bi-LSTM Model for SOC est
 
 Code Description:
 
-N100deg--->create the models for N10 degree
+N10deg--->create the models for N10 degree
 
 0deg--->create the models for zero degree
 
