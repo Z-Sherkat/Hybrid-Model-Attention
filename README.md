@@ -4,16 +4,16 @@ Ion Batteries".
 
 # Code Description:
 
- •	N10deg--->create 12 deep learning models (with and without attention
+   •	N10deg/->create 12 deep learning models (with and without attention
 mechanism) for -10 degree.
  
- •	0deg--->create 12 deep learning models (with and without attention
+   •	0deg/->create 12 deep learning models (with and without attention
 mechanism) for zero degree.
  
- •	10deg--->create 12 deep learning models (with and without attention
+   •	10deg/->create 12 deep learning models (with and without attention
 mechanism) for 10 degree.
  
- •	25deg--->create 12 deep learning models (with and without attention
+   •	25deg/->create 12 deep learning models (with and without attention
 mechanism) for 25 degree.
 
 # Images:
