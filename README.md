@@ -1,16 +1,25 @@
-# Hybrid-Model-Attention
+# Introduction
+This is the official implementation of a Self-Attention-Based LSTM, Bi-LSTM, CNN-LSTM and CNN-Bi-LSTM Model for SOC estimation in "A Self-Attention-Based CNN-Bi-LSTM Model for Accurate State-of-Charge Estimation of Lithium-
+Ion Batteries".
 
-A Self-Attention-Based LSTM, Bi-LSTM, CNN-LSTM and CNN-Bi-LSTM Model for SOC estimation.
+# Code Description:
 
-Code Description:
+ •	N10deg--->create 12 deep learning models (with and without attention
+mechanism) for -10 degree.
+ 
+ •	0deg--->create 12 deep learning models (with and without attention
+mechanism) for zero degree.
+ 
+ •	10deg--->create 12 deep learning models (with and without attention
+mechanism) for 10 degree.
+ 
+ •	25deg--->create 12 deep learning models (with and without attention
+mechanism) for 25 degree.
 
- •	N10deg--->create the models for N10 degree
- 
- •	0deg--->create the models for zero degree
- 
- •	10deg--->create the models for 10 degree
- 
- •	25deg--->create the models for 25 degree
+# Images:
+
+images/ -> images presented in our publication.
+
 
 # Dataset
 
