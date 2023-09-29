@@ -37,7 +37,18 @@ the average current, over all previous k steps were added to the input data set.
 
 <img width="305" alt="Screenshot 2023-09-28 at 8 23 16 PM" src="https://github.com/Z-Sherkat/Hybrid-Model-Attention/assets/97856714/4eab9c5d-c8b9-4a57-933f-e31d51489430">
 
- 
+ # Performance Comparision
+
+ Results of SOC estimation at room temperature reported for 12 competing deep learning models (with and without attention
+mechanism).
+
+<img width="532" alt="Screenshot 2023-09-29 at 12 29 08 PM" src="https://github.com/Z-Sherkat/Hybrid-Model-Attention/assets/97856714/e7731860-27dc-499c-baa1-23b2c34b9ca3">
+
+ Results of SOC estimation at lower ambient temperatures, for 12 competing deep learning models
+(with and without attention mechanism). 
+
+ <img width="531" alt="Screenshot 2023-09-29 at 12 27 46 PM" src="https://github.com/Z-Sherkat/Hybrid-Model-Attention/assets/97856714/148f70a7-283c-4a6a-bd91-493435f10e04">
+
 
 
  
